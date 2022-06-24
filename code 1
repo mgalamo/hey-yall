@@ -1,0 +1,11 @@
+//Melodie Galamo
+#include <iostream>
+
+use namespace std;
+
+int main ()
+
+{
+  cout << "Hey yall!"; 
+}
+return 0;
